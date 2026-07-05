@@ -162,11 +162,11 @@ https://github.com/SHUBH07062003?tab=repositories
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=66FF99&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Let's+connect+and+build+something+amazing+🚀" />
 </p>
-- 🔭 I’m currently working on **Full Stack Web Applications and Data Analytics Projects**
-- 🌱 I’m currently learning **Power BI, Advanced SQL, Python for Data Analysis, and Cloud Technologies**
-- 👯 I’m looking to collaborate on **Open Source, MERN Stack, and Data Analytics Projects**
-- 🤔 I’m looking for help with **Machine Learning, Advanced Data Visualization, and System Design**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, SQL, REST APIs, AWS, and Data Analytics**
+- 🔭 I’m currently working on **Data Analytics and Full Stack Development Projects**
+- 🌱 I’m currently learning **Power BI, Advanced Excel, SQL, Python (Pandas & NumPy)**
+- 👯 I’m looking to collaborate on **Data Analytics, Business Intelligence, and MERN Stack Projects**
+- 🤔 I’m looking for help with **Machine Learning and Advanced Data Visualization**
+- 💬 Ask me about **SQL, Excel, Power BI, React.js, Node.js, MongoDB, REST APIs, and AWS**
 - 📫 How to reach me: **03shubh.shukla@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy turning ideas into real-world applications and continuously learning new technologies.**
+- ⚡ Fun fact: **I love solving real-world problems through data and building scalable web applications.**
